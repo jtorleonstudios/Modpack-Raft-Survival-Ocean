@@ -1,0 +1,33 @@
+[00:24:08] [main/INFO]: ModLauncher running: args [--username, JTorLeon, --version, forge-36.2.39, --gameDir, C:\intragit\workspace_curse\Instances\Raft Survival - Ocean Nomad, --assetsDir, C:\intragit\workspace_curse\Install\assets, --assetIndex, 1.16, --uuid, f5c6313ae86c4103b5dc77594172fd6b, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.39, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[00:24:08] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[00:24:08] [main/WARN]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[00:24:09] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[00:24:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/intragit/workspace_curse/Install/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[00:24:16] [main/INFO]: Launching target 'fmlclient' with arguments [--version, forge-36.2.39, --gameDir, C:\intragit\workspace_curse\Instances\Raft Survival - Ocean Nomad, --assetsDir, C:\intragit\workspace_curse\Install\assets, --uuid, f5c6313ae86c4103b5dc77594172fd6b, --username, JTorLeon, --assetIndex, 1.16, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[00:24:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:24:54] [main/INFO]: Setting user: JTorLeon
+[00:24:55] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[00:24:58] [modloading-worker-3/INFO]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[00:24:58] [modloading-worker-3/INFO]: MinecraftForge v36.2.39 Initialized
+[00:25:08] [main/INFO]: Narrator library for x64 successfully loaded
+[00:25:08] [main/INFO]: Reloading ResourceManager: Default, Mod Resources
+[00:25:23] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[00:25:24] [Forge Version Check/INFO]: [forge] Found status: AHEAD Current: 36.2.39 Target: null
+[00:25:24] [Forge Version Check/INFO]: [openloader] Starting version check at https://updates.blamejared.com/get?n=openloader&gv=1.16.5
+[00:25:24] [Forge Version Check/INFO]: [openloader] Found status: BETA Current: 9.0.3 Target: 9.0.3
+[00:25:24] [Forge Version Check/INFO]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.16.5
+[00:25:24] [Forge Version Check/INFO]: [clumps] Found status: BETA Current: 6.0.0.28 Target: 6.0.0.28
+[00:25:38] [main/INFO]: OpenAL initialized.
+[00:25:38] [main/INFO]: Sound engine started
+[00:25:40] [main/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[00:25:40] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[00:25:43] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[00:25:43] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[00:25:43] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[00:25:43] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[00:25:43] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[00:25:43] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[00:25:47] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[00:25:47] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[00:25:47] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[00:26:23] [main/INFO]: Stopping!
